@@ -1,0 +1,5 @@
+<resources>
+    <style name="Base.Theme.TitanApi" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/fondo_pantalla</item>
+    </style>
+</resources>

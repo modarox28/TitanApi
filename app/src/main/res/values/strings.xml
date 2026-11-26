@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Titan API</string>
+    <string name="titulo">Personajes de Attack on Titan</string>
+    <string name="sin_dato">Desconocido</string>
+    <string name="error_conexion">No se pudo conectar con la API. Revisa tu internet.</string>
+    <string name="reintentar">Reintentar</string>
+    <string name="volver">Volver</string>
+    <string name="contador_formato">Cargados %1$d de %2$d personajes · página %3$d de %4$d</string>
+    <string name="contador_completo">Cargados %1$d de %2$d personajes · página %3$d de %4$d · ¡Todos cargados!</string>
+    <string name="item_ocupacion">Ocupación: %1$s</string>
+    <string name="item_residencia">Residencia: %1$s</string>
+
+    <string name="label_especie">Especie</string>
+    <string name="label_genero">Género</string>
+    <string name="label_edad">Edad</string>
+    <string name="label_estatura">Estatura</string>
+    <string name="label_alias">Alias</string>
+    <string name="label_nacimiento">Lugar de nacimiento</string>
+    <string name="label_residencia">Residencia</string>
+    <string name="label_ocupacion">Ocupación</string>
+    <string name="label_grupos">Grupos</string>
+    <string name="label_familia">Familia</string>
+    <string name="label_roles">Roles</string>
+    <string name="label_apariciones">Aparece en</string>
+    <string name="episodios">episodios</string>
+    <string name="ninguno">Ninguno</string>
+    <string name="desconocida">Desconocida</string>
+</resources>

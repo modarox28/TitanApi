@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="vivo">#2E7D32</color>
+    <color name="muerto">#C62828</color>
+    <color name="desconocido">#757575</color>
+    <color name="fondo_pantalla">#1B2A38</color>
+    <color name="fondo_tarjeta">#4EBFD9</color>
+    <color name="color_boton">#F25F29</color>
+</resources>
